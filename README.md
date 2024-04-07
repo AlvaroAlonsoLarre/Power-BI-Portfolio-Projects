@@ -9,4 +9,5 @@
 
 ## 📈 [Proyecto Indicadores de Población](https://app.powerbi.com/view?r=eyJrIjoiZTI3Mzg4NzItYWUyNC00YTE4LTk2OWItMWQ1NDhhZTA2OGIzIiwidCI6IjcxNzFlM2FjLTQxMjAtNDllYy1hN2UzLWZhMWY2YTc2NDIyYSIsImMiOjh9)
 Proyecto de análisis de la población mundial, secotrizado por paises, comparando la esperanzas de vida y los índices de mortalidad infantil.
+
 ![Dashboard](https://github.com/AlvaroAlonsoLarre/Power-BI-Portfolio-Projects/blob/main/Proyecto%20Indicadores%20Poblaci%C3%B3n/Proyecto%20Indicadores%20de%20Poblaci%C3%B3n.jpg)
